@@ -2,7 +2,12 @@
 import React from 'react'
 import {useParams} from "next/navigation"
 import { db } from '@/lib/db';
-const Dashboard = async(params:{storeId:string}) => {
+
+interface Dashboard{
+    params:{storeId:string}
+}
+const Dashboard:React.FC<Dashboard> = async({params}) => {
+  
   const store=await db.store.findFirst
   ({
     where:{
