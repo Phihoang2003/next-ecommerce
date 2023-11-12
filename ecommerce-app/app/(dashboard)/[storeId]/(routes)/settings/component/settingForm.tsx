@@ -1,5 +1,6 @@
 "use client";
 import { AlertModal } from "@/components/Modal/alert-modal";
+import { ApiAlert } from "@/components/ui/api-alert";
 import { Button } from "@/components/ui/button";
 import { Form, FormControl, FormDescription, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
 import { Heading } from "@/components/ui/heading";
@@ -111,6 +112,9 @@ export const SettingsForm: React.FC<SettingsFormProps> = ({ initialData }) => {
           </Button>
         </form>
       </Form>
+
+      <Separator/>
+      <ApiAlert title="Next-Public_URl" description="text-desc" variant="public"/>
     </>
   );
 };
