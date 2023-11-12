@@ -112,7 +112,7 @@ export const SettingsForm: React.FC<SettingsFormProps> = ({ initialData }) => {
           </Button>
         </form>
       </Form>
-
+          
       <Separator/>
       <ApiAlert title="Next-Public_URl" description="text-desc" variant="public"/>
     </>
