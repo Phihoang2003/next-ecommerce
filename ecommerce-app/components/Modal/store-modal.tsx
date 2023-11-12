@@ -32,7 +32,7 @@ export const StoreModal = () => {
       name: "",
     },
   });
-
+  
   const onSubmit=async (values: z.infer<typeof formSchema>)=> {
     try {
       setLoading(true);
@@ -78,7 +78,11 @@ export const StoreModal = () => {
             </form>
           </Form>
         </div>
+          
+        
       </div>
     </Modal>
+
+    
   );
 };
