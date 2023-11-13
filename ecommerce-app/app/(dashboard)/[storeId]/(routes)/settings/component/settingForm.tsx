@@ -1,4 +1,5 @@
 "use client";
+import { useOrigin } from "@/app/hooks/use-origin";
 import { AlertModal } from "@/components/Modal/alert-modal";
 import { ApiAlert } from "@/components/ui/api-alert";
 import { Button } from "@/components/ui/button";
@@ -27,6 +28,7 @@ interface SettingsFormProps {
 export const SettingsForm: React.FC<SettingsFormProps> = ({ initialData }) => {
   const router = useRouter();
   const params = useParams();
+  const origin=useOrigin();
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(false);
 
@@ -114,7 +116,7 @@ export const SettingsForm: React.FC<SettingsFormProps> = ({ initialData }) => {
       </Form>
           
       <Separator/>
-      <ApiAlert title="Next-Public_URl" description="text-desc" variant="public"/>
+      <ApiAlert title="Next-Public_URl" description={`${origin}/api/${params.storeId}`} variant="public"/>
     </>
   );
 };
