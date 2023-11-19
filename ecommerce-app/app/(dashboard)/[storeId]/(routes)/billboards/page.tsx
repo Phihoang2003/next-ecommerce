@@ -19,15 +19,17 @@ const BillboardPage = async({
     {
       id:item.id,
       label:item.label,
-      createdAt:format(item.createdAt,"MMMM mo,yyyy")
+      createdAt: format(item.createdAt, 'MMMM do, yyyy'),
     }
   ))
   
 
   return (
-    <div className='flex-1 p-8 pt-6 space-y-4'>
+   <div className='flex-col'>
+       <div className='flex-1 p-8 pt-6 space-y-4'>
         <BillboardClient data={formattedBillboards}/>
     </div>
+   </div>
   )
 }
 
