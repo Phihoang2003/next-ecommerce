@@ -5,6 +5,7 @@ import useCart from '@/hooks/use-cart';
 import React from 'react'
 import {useState,useEffect} from "react"
 import CartItem from './components/cart-item';
+import Summary from './components/summary';
 
 export const revalidate=0;
 
@@ -35,7 +36,7 @@ const Cart = () => {
                         </ul>
 
                     </div>
-                    
+                    <Summary/>
                 </div>
 
             </div>
