@@ -5,6 +5,7 @@ import { MainNav } from './MainNav'
 import { redirect } from "next/navigation";
 import { db } from '@/lib/db';
 import StoreSwitcher from './StoreSwitcher';
+import { ThemeToggle } from './theme-toggle';
 
 const Navbar =async () => {
     const {userId}=auth();
@@ -26,6 +27,7 @@ const Navbar =async () => {
             <MainNav className='mx-6'/>
             
             <div className='flex ml-auto space-x-4'>
+                <ThemeToggle/>
                 <UserButton afterSignOutUrl='/'/>
             </div>
         </div>
