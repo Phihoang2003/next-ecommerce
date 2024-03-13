@@ -4,37 +4,37 @@ LINK DEPLOY ADMIN PAGE: https://ecommerce-admin-murex-omega.vercel.app
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/d8a26a30-22bb-4010-a23a-b4060eaba822)
 
-First, run the development server:
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/64ed599e-5382-48b4-9439-63c68d520fbd)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/203cb51d-230b-4f2b-8036-5672da3bdf87)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/f2777a00-4c5b-48a2-894d-5af11b3cff30)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/f4fcdadf-df14-4a86-9efc-622808dc21ba)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/f2cd4a81-e338-4d20-9510-454e36108e66)
 
-## Learn More
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/451eb55a-74f1-4755-9dee-afd4cf4b2cc5)
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/01dd52b5-4abe-4c33-82f5-c9962635fadc)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/f9d49da5-e672-4734-a5eb-a6ba5a93eba9)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/6f4d3a7a-1e17-47b5-a4ef-cb05f3a9279e)
 
-## Deploy on Vercel
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/fb124489-6f81-4354-94f7-32d1ded83e00)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/c4759df0-0329-45b8-abc0-6ac278ddd971)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+
+
