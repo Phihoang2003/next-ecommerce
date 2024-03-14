@@ -8,6 +8,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/64ed599e-5382-48b4-9439-63c68d520fbd)
 
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/e356066c-efad-4b48-8afb-2d44673ebbf4)
+
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/7906075d-31aa-40a5-8bd0-d96eaa197fbe)
+
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/d0aee741-c5bc-4635-ba56-15d5a6bd052b)
+
 ![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/203cb51d-230b-4f2b-8036-5672da3bdf87)
 
 ![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/f2777a00-4c5b-48a2-894d-5af11b3cff30)
