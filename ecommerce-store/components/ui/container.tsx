@@ -1,16 +1,15 @@
-import React from "react"
-
-interface ContainerProps{
-  children:React.ReactNode
+interface ContainerProps {
+  children: React.ReactNode;
 }
-const Container:React.FC<ContainerProps> = ({
+
+const Container: React.FC<ContainerProps> = ({
   children
 }) => {
-  return (
+  return ( 
     <div className="mx-auto max-w-7xl">
       {children}
     </div>
-  )
-}
+   );
+};
 
-export default Container
+export default Container;
