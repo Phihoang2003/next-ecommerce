@@ -4,6 +4,9 @@ LINK DEPLOY ADMIN PAGE: https://ecommerce-admin-murex-omega.vercel.app
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/6489e256-e9d9-4ae6-9e11-9846d39ba909)
+
+
 ![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/d8a26a30-22bb-4010-a23a-b4060eaba822)
 
 ![image](https://github.com/Phihoang2003/next-ecommerce/assets/107670709/64ed599e-5382-48b4-9439-63c68d520fbd)
